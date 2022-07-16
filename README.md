@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Asaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaf-kali&show_icons=true&theme=gruvbox)
+![Asaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaf-kali&show_icons=true&theme=nord)
 
-<!-- Cool themes: gruvbox, tokyonight, onedark -->
+<!-- Cool themes: gruvbox, tokyonight, onedark, nord -->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
