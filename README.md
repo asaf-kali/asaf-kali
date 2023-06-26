@@ -1,7 +1,3 @@
-### Hi there! 
-
-![Asaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaf-kali&show_icons=true&theme=nord)
-
 <!-- Cool themes: gruvbox, tokyonight, onedark, nord -->
 <!--
 - 🔭 I’m currently working on ...
